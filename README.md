@@ -1,2 +1,2 @@
-# NASISJS
-JavaScript for use in NASIS HTML Reports
+# nasis-js
+JavaScript for use in NASIS (National Soil Information System) HTML reports
